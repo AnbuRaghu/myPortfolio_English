@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "A.Anbalagan",
+    "fullName": "Anbalagn Amirthalingam",
+    "occupation": "Full stack web developer (MERN/MEAN Stack)",
+    "description": "Are you looking for Junior web developer?.You are then in right place ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Anbalagan alias Anbu! Along the journey I realised my passion existed in web development,with this passion,as part of my learning, I've made many of famous websites' clones like Facebook,Linked In, Netflix using reactjs.Also I built more single page applications that you can view in my works section.As a fresher,currently I'm looking forward to a job as junior web developer.I'm always looking forward to hearing from you.",
+    "resumeDownload": "Anschreiben.pdf",
+    "contactmessage": "Get in touch with me ",
+    "email": "anburaghu90@gmail.com",
+    "phone": "+49 1776993752",
+    "address": {
+      "street": "Höhen strasse 56",
+      "city": "Frankfurt,Germany",
+      "state": "Kronberg",
+      "zip": "61476 Kronberg Im Taunus"
+    },
+
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/AnbuRaghu",
+        "className": "fa fa-github"
+      },
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anbalagan-amirthalingam-944b48173",
+        "className": "fa fa-linkedin"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Related Proficiency",
+    "education": [
+      {
+        "school": "University of Jaffna - Sri Lanka",
+        "degree": "Bachelor's Degree, Translation Studies.",
+        "certified": "Full stack web developer master programme.",
+        "school1": "Edureka coding School- India"
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      {
+        "name": "java ",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19-tracker (React JS)",
+        "category": "",
+        "image": "covid.png",
+        "url": "https://covid-19-tracker-5bfd9.web.app"
+      },
+      {
+        "title": "Voice Assistant (React JS)",
+        "category": "",
+        "image": "voice.png",
+        "url": "https://voice-assistant-app-com.web.app"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://linkedin-4a169.web.app/"
+      },
+
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "fb.png",
+        "url": "https://fb-clone-1f196.web.app"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-d0c38.web.app"
+      },
+      {
+        "title": "E-Store app(React JS)",
+        "category": "",
+        "image": "estore.png",
+        "url": "https://ecommerceapp-98211.web.app"
+      },
+      {
+        "title": "Memories Mern App (React JS) github Link",
+        "category": "",
+        "image": "mem.png",
+        "url": "https://github.com/AnbuRaghu/myMernApp"
+      },
+      {
+        "title": "Amazon E-commerce App (React JS) github Link",
+        "category": "",
+        "image": "amazo.png",
+        "url": "https://github.com/AnbuRaghu/MyAmazonApp"
+      }
+    ]
+  }
+}
