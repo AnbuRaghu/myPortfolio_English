@@ -3,11 +3,11 @@
     "name": "A.Anbalagan",
     "fullName": "Anbalagn Amirthalingam",
     "occupation": "Full stack web developer (MERN/MEAN Stack)",
-    "description": "Are you looking for Junior web developer?.You are then in right place ",
+    "description": "Are you looking for Junior web developer?.You are then in right place. ",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Anbalagan alias Anbu! Along the journey I realised my passion existed in web development,with this passion,as part of my learning, I've made many of famous websites' clones like Facebook,Linked In, Netflix using reactjs.Also I built more single page applications that you can view in my works section.As a fresher,currently I'm looking forward to a job as junior web developer.I'm always looking forward to hearing from you.",
+    "bio": "Hi there! I am Anbalagan alias Anbu! Along the journey I realised my passion existed in web development, with this passion, as part of my learning, I've made many of famous websites' clones like Facebook,Linked In, Netflix using reactjs. Also I built more single page applications that you can view in my works section. As a fresher,currently I'm looking forward to a job as junior web developer.I'm always looking forward to hearing from you.",
     "resumeDownload": "Anschreiben.pdf",
-    "contactmessage": "Get in touch with me ",
+    "contactmessage": "Get in touch with me. ",
     "email": "anburaghu90@gmail.com",
     "phone": "+49 1776993752",
     "address": {
@@ -61,7 +61,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "70%"
+        "level": "75%"
       },
 
       {
@@ -70,7 +70,7 @@
       },
       {
         "name": "java ",
-        "level": "50%"
+        "level": "65%"
       }
     ]
   },
