@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "A.Anbalagan",
+    "name": "Anbalagan.A",
     "fullName": "Anbalagn Amirthalingam",
     "occupation": "Full stack web developer (MERN/MEAN Stack)",
     "description": "Are you looking for Junior web developer?.You are then in right place. ",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Anbalagan alias Anbu! Along the journey I realised my passion existed in web development, with this passion, as part of my learning, I've made many of famous websites' clones like Facebook,Linked In, Netflix using reactjs. Also I built more single page applications that you can view in my works section. As a fresher,currently I'm looking forward to a job as junior web developer.I'm always looking forward to hearing from you.",
+    "bio": "Hi there! I am Anbalagan alias Anbu! Along the journey I realised my passion existed in web development, with this passion, as part of my learning, I've mastered the web development. As a fresher,currently I'm looking forward to a job either as junior web developer or as a trainee in web development.I'm always looking forward to hearing from you.",
     "resumeDownload": "Anschreiben.pdf",
     "contactmessage": "Get in touch with me. ",
     "email": "anburaghu90@gmail.com",
@@ -22,12 +22,6 @@
         "name": "github",
         "url": "https://github.com/AnbuRaghu",
         "className": "fa fa-github"
-      },
-
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/anbalagan-amirthalingam-944b48173",
-        "className": "fa fa-linkedin"
       }
     ]
   },
@@ -43,6 +37,10 @@
     ],
 
     "skills": [
+      {
+        "name": "Html/Css",
+        "level": "90%"
+      },
       {
         "name": "JavaScript",
         "level": "90%"
@@ -65,12 +63,16 @@
       },
 
       {
-        "name": "Web Development",
-        "level": "90%"
-      },
-      {
         "name": "java ",
         "level": "65%"
+      },
+      {
+        "name": "Type Script",
+        "level": "75%"
+      },
+      {
+        "name": "Git ",
+        "level": "75%"
       }
     ]
   },
